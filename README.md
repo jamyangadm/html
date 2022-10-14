@@ -1,2 +1,2 @@
 # html
-## publish your repository
+## Publish your repository
