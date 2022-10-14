@@ -1,3 +1,3 @@
 # html
-## Publish your repository
+## Hosting your website on Github
 - Create a new public repository
